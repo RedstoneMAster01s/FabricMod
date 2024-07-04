@@ -27,5 +27,7 @@
   "item.templatemod.music_disk": "Music Disk",
   "item.templatemod.music_disk_desc": "RedstoneMaster01 - Music Disk",
   "item.templatemod.porcupine_spawn_egg": "Porcupine Spawn Egg",
-  "item.templatemod.dice": "Dice"
+  "item.templatemod.dice": "Dice",
+  "item.templatemod.time_manipulator": "Time Manipulator",
+  "tooltip.templatemod.time.Change.item": "Click On Block Skips Forward 50 Secents, Shift Click Block For 20 Secents"
 }

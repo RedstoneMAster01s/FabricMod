@@ -1,4 +1,4 @@
-// 1.21	2024-07-04T13:13:14.6338962	Template Mod/Tags for minecraft:block
+// 1.21	2024-07-04T13:17:29.5003623	Template Mod/Tags for minecraft:block
 f24a97acb6b62070f7b42413a15d711af28f72f4 data\fabric\tags\block\needs_tool_level_5.json
 a7b5fffe6a833549583c7bcec14c3cb1ad18eb82 data\minecraft\tags\block\needs_iron_tool.json
 38793e2e83cf220666cc6e514ac8b3fb072666c4 data\minecraft\tags\block\needs_diamond_tool.json

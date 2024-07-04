@@ -1,4 +1,4 @@
-// 1.21	2024-07-04T13:13:14.6348959	Template Mod/Model Definitions
+// 1.21	2024-07-04T13:17:29.5025274	Template Mod/Model Definitions
 c4113a4f3421178855abfd30c9dddb3947778eb3 assets\templatemod\models\item\ruby_helmet_redstone_trim.json
 c40b7237d2748e51c61012dbbe708644c2311402 assets\templatemod\models\item\ruby.json
 2eef6278f86e11791203d22606007bae4f1f9855 assets\templatemod\models\item\ruby_chestplate_lapis_trim.json
@@ -29,8 +29,8 @@ df95c101259fc8d5f793aec6a48ee8607af6bfae assets\templatemod\models\item\ruby_leg
 b038e14da29b5c867c293843d04a1d3b2e38ad2e assets\templatemod\models\item\ruby_helmet_emerald_trim.json
 666f265e38547311b13383651d3ed61d279d380a assets\templatemod\models\item\ruby_boots_iron_trim.json
 a141dbbc408e00682c7a3da73cdc9a6a25300f24 assets\templatemod\models\item\ruby_leggings_iron_trim.json
-0505b1054895368c221b46845bc8c5d3a6ea6e94 assets\templatemod\blockstates\raw_ruby_block.json
 19c9e47207cff526cf529fa2c6e5ff834dbea6c4 assets\templatemod\blockstates\ruby_block.json
+0505b1054895368c221b46845bc8c5d3a6ea6e94 assets\templatemod\blockstates\raw_ruby_block.json
 5c6b2febd2581f751dc3db946ea53699e7c23608 assets\templatemod\models\item\bad_fuel.json
 8e39c1122c1437f88642db098efd771d5ef49bf5 assets\templatemod\models\item\ruby_helmet.json
 63ec6c618a3a23eab4cab9c52d7d3250de9b516e assets\templatemod\models\item\porcupine_spawn_egg.json

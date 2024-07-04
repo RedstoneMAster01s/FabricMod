@@ -1,12 +1,16 @@
 package net.lucas.template.item.custom;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemUsageContext;
+import net.minecraft.item.tooltip.TooltipType;
 import net.minecraft.server.command.ServerCommandSource;
 import net.minecraft.text.Text;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
 import net.minecraft.world.World;
+
+import java.util.List;
 
 public class TimeManipulatorItem extends Item {
     public TimeManipulatorItem(Settings settings) {
@@ -48,5 +52,10 @@ public class TimeManipulatorItem extends Item {
 
     public static void ItemHit(PlayerEntity player, ItemUsageContext context) {
         context.getStack().damage(1, player, PlayerEntity.getSlotForHand(Hand.MAIN_HAND));
+    }
+    @Override
+    public void appendTooltip(ItemStack stack, TooltipContext context, List<Text> tooltip, TooltipType type) {
+        tooltip.add(Text.translatable("tooltip.templatemod.time.Change.item"));
+        super.appendTooltip(stack, context, tooltip, type);
     }
 }
