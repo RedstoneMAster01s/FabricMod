@@ -24,6 +24,7 @@ public class TemplateMod implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModCustomTrades.registerTrades();
 		ModSounds.registerSounds();
+
 		ModItems.registerModItems();
 		FabricDefaultAttributeRegistry.register(ModEntities.PORCUPINE, PorcupineEntity.createPorcupineAttributes());
 

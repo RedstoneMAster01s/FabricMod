@@ -2,7 +2,6 @@ package net.lucas.template.item.custom;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemUsageContext;
-import net.minecraft.item.Items;
 import net.minecraft.server.command.ServerCommandSource;
 import net.minecraft.text.Text;
 import net.minecraft.util.ActionResult;
@@ -22,10 +21,12 @@ public class TimeManipulatorItem extends Item {
         if (!world.isClient && player != null) {
             if (player.isSneaking()) {
                 // Fast-forward time by 400 ticks (20 seconds)
+                ServerCommandSource ServerCommandSource = player.getCommandSource();
+                executeSprint(ServerCommandSource, 400);
             } else {
                 // Fast-forward time by 1000 ticks (50 seconds)
                 ServerCommandSource ServerCommandSource = player.getCommandSource();
-                executeSprint(ServerCommandSource, 400);
+                executeSprint(ServerCommandSource, 1000);
             }
             PlayerEntity PlayerEntity = player;
             ItemHit(PlayerEntity, context);

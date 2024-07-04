@@ -1,4 +1,4 @@
-// 1.21	2024-06-30T13:55:19.8203791	Template Mod/Model Definitions
+// 1.21	2024-07-04T13:13:14.6348959	Template Mod/Model Definitions
 c4113a4f3421178855abfd30c9dddb3947778eb3 assets\templatemod\models\item\ruby_helmet_redstone_trim.json
 c40b7237d2748e51c61012dbbe708644c2311402 assets\templatemod\models\item\ruby.json
 2eef6278f86e11791203d22606007bae4f1f9855 assets\templatemod\models\item\ruby_chestplate_lapis_trim.json
@@ -58,6 +58,7 @@ b6fdbf878f4f095b03242e6f971c948d6040dd64 assets\templatemod\models\item\ruby_leg
 07b508896c6dbcc90f4880af02e6b42556368e3e assets\templatemod\models\item\ruby_boots.json
 b12ebe81334eb29e17ba782c1acbd1dad2a01fab assets\templatemod\blockstates\ruby_ore.json
 09783021fdbfda85d16c45e617e75ab68589781f assets\templatemod\models\item\ruby_helmet_quartz_trim.json
+4a94238234e0481267eb3a3701ce5dca58d637d3 assets\templatemod\models\item\time_manipulator.json
 d2d054b3bba288dfac88c8dbda6225eb2d27ba07 assets\templatemod\models\block\end_stone_ruby_ore.json
 9c54bfd79c72eed9057e1c71ede6a4be33e5f1fc assets\templatemod\models\item\raw_ruby_block.json
 b70c94f587d1020494f68928c4e1c1e7d0a92109 assets\templatemod\models\item\ruby_pickaxe.json
