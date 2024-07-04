@@ -1,0 +1,8 @@
+// 1.21	2024-06-30T13:55:19.8256807	Template Mod/Block Loot Tables
+6aced32c892c54718981e15c2b165194d6eec15f data\templatemod\loot_table\blocks\nether_ruby_ore.json
+07d440fb2ceacf25bba8eb2ead85be176ae8c4c2 data\templatemod\loot_table\blocks\sound_block.json
+9ddb13d4d7eed675b9e25607ff7652c1c1fe665d data\templatemod\loot_table\blocks\deepslate_ruby_ore.json
+4be0664faab90cd9293f5a4a9330f567a922808e data\templatemod\loot_table\blocks\raw_ruby_block.json
+7134712e04c51b06c77ca40a05b72128f62c251c data\templatemod\loot_table\blocks\end_stone_ruby_ore.json
+92386de208e59f83fcadbd3c1e96cc80ee293270 data\templatemod\loot_table\blocks\ruby_block.json
+15215ec88a755f7e463b9796b30f433064a1cb74 data\templatemod\loot_table\blocks\ruby_ore.json

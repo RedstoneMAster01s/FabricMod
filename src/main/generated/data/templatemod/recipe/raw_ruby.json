@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "templatemod:ruby"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    " S ",
+    " R ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "templatemod:raw_ruby"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "values": [
+    "templatemod:raw_ruby_block",
+    "templatemod:ruby_block",
+    "templatemod:nether_ruby_ore",
+    "templatemod:end_stone_ruby_ore",
+    "templatemod:deepslate_ruby_ore",
+    "templatemod:ruby_ore"
+  ]
+}

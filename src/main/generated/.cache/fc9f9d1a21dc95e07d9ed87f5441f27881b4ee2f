@@ -1,0 +1,6 @@
+// 1.21	2024-06-30T13:55:19.8179902	Template Mod/Tags for minecraft:block
+f24a97acb6b62070f7b42413a15d711af28f72f4 data\fabric\tags\block\needs_tool_level_5.json
+a7b5fffe6a833549583c7bcec14c3cb1ad18eb82 data\minecraft\tags\block\needs_iron_tool.json
+38793e2e83cf220666cc6e514ac8b3fb072666c4 data\minecraft\tags\block\needs_diamond_tool.json
+3390336e2eb4b26915192d2de74b7feedf4abe0e data\minecraft\tags\block\mineable\pickaxe.json
+21f6dc2f4de66f98558fe92d219c2de6b236f411 data\fabric\tags\block\needs_tool_level_4.json

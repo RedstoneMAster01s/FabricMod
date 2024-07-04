@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "templatemod:ruby"
+    }
+  },
+  "pattern": [
+    "SSS",
+    " R ",
+    " R "
+  ],
+  "result": {
+    "count": 1,
+    "id": "templatemod:ruby_pickaxe"
+  }
+}

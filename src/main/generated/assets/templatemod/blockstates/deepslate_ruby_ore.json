@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "templatemod:block/deepslate_ruby_ore"
+    }
+  }
+}
