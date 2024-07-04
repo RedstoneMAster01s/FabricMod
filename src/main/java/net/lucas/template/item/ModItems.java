@@ -40,7 +40,7 @@ public class ModItems {
     public static final Item METEL_DETECTOR = registerItem("metel_detector",
             new MetelDetectorItem(new Item.Settings().maxDamage(64).maxCount(1)));
 
-    public static final Item TimeManipulatorItem = registerItem("TimeManipulator",
+    public static final Item TIME_MANIPULATOR_ITEM = registerItem("TimeManipulator",
             new TimeManipulatorItem(new Item.Settings().maxDamage(64).maxCount(1)));
 
     public static final Item DICE = registerItem("dice",

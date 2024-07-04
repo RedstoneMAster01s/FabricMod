@@ -37,7 +37,7 @@ public class ModModelProviter extends FabricModelProvider {
         itemModelGenerator.register(ModItems.TOMATO, Models.GENERATED);
         itemModelGenerator.register(ModItems.DICE, Models.GENERATED);
         itemModelGenerator.register(ModItems.METEL_DETECTOR, Models.GENERATED);
-        itemModelGenerator.register(ModItems.TimeManipulatorItem, Models.GENERATED);
+        itemModelGenerator.register(ModItems.TIME_MANIPULATOR_ITEM, Models.GENERATED);
         itemModelGenerator.register(ModItems.RUBY_PICKAXE, Models.HANDHELD);
         itemModelGenerator.register(ModItems.RUBY_AXE, Models.HANDHELD);
         itemModelGenerator.register(ModItems.RUBY_SHOVEL, Models.HANDHELD);
